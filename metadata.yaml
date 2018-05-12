@@ -1,4 +1,8 @@
 _repo: The-Mentor-The-Conquest-of-the-Poles-Serial-No-37_49811
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49811-h/images/cover.jpg
 creator:
   author:
     agent_name: Peary, Robert E. (Robert Edwin)
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8383
     wikipedia: http://en.wikipedia.org/wiki/Robert_Peary
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49811#The-Mentor-The-Conquest-of-the-Poles-Serial-No-37
 gutenberg_issued: '2015-08-29'
 gutenberg_type: Text
 identifiers:
